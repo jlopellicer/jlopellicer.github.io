@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juan Pellicer – Video Wallpaper App</title>
+    <title>Jorge López Pellicer – Animated Wallpaper App for MacOS</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -32,7 +31,7 @@
     </style>
 </head>
 <body>
-    <h1>Video Wallpaper for macOS</h1>
+    <h1>Animated Wallpaper App for macOS</h1>
 
     <section id="privacy-policy">
         <h2>Privacy Policy</h2>
@@ -42,7 +41,7 @@
             tracking, or any third-party services.
         </p>
         <p>If you have any questions regarding privacy, please contact: 
-            <a href="mailto:your@email.com">your@email.com</a>
+            <a href="mailto:lopezpellicerjorge@gmail.com">lopezpellicerjorge@gmail.com</a>
         </p>
     </section>
 
@@ -50,16 +49,12 @@
         <h2>Support</h2>
         <p>
             For support or inquiries regarding the app, please email:
-            <a href="mailto:your@email.com">your@email.com</a>
-        </p>
-        <p>
-            Alternatively, visit our GitHub page or website for updates and FAQ:
-            <a href="https://juanpellicer.dev">https://juanpellicer.dev</a>
+            <a href="mailto:lopezpellicerjorge@gmail.com">lopezpellicerjorge@gmail.com</a>
         </p>
     </section>
 
     <footer>
-        &copy; 2026 Juan Pellicer. All rights reserved.
+        &copy; 2026 Jorge López Pellicer. All rights reserved.
     </footer>
 </body>
 </html>
